@@ -1,4 +1,5 @@
 # Kabdhee-Textile
 E-Commerce
-![Alt text](shop.png)
+![Shop Page](shop.png)
+![Shop Page](conoct us.png)
 
