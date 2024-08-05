@@ -1,4 +1,4 @@
 # Kabdhee-Textile
 E-Commerce
-shop.png
+![Alt text](Kabdhee-Textile/shop.png)
 
